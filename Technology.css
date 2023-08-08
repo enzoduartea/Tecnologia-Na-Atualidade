@@ -1,0 +1,41 @@
+body
+{
+  background: linear-gradient(135deg, #3498db, yellow);
+
+}
+h1 {
+  text-decoration: underline;
+  font-size: 40px;
+}
+oi
+{
+  color: red;
+}
+.menu
+{
+list-style: none;
+padding: 0;
+margin: 0;
+display: flex;
+background-color: #333;
+}
+
+.links 
+{
+margin-right: 20px;
+}
+
+.links a
+{ 
+text-decoration: none;
+color: white;
+font-weight: bold;
+}.links a:hover 
+{ 
+color: lightblue; 
+}
+
+.parallax-inner {
+  display: table-cell;
+  vertical-align: middle;
+}
